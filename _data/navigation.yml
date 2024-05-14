@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Simple Tips for Dev"
-    url: /categories/simple_tips
+  - title: "개발 팁"
+    url: /categories/dev-tips
   # - title: "단순 개발팁"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
